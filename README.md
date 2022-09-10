@@ -34,7 +34,7 @@
 # Main Working 
 You can also download sample videos from /static folder
 <p align="center">
-<video src="https://github.com/ikaushiksharma/crm-brigade/blob/main/static/Leadsandagentcreation.mp4" type="video/mp4" height="90%" autoplay loop controls/>
+<video src=".static/Leadsandagentcreation.mp4" type="video/mp4" height="90%" autoplay loop controls/>
 </p>
 
 
