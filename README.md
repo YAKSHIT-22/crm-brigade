@@ -1,4 +1,4 @@
-<img src="logo.png" align="right" width="90" height="90"/>
+<img src="./static/images/logo.jpg" align="right" width="200"/>
 
 # Customer Relationship Management
 
