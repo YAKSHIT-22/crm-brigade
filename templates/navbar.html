@@ -113,8 +113,8 @@
       >
       {% endif %}
     </nav>
-    {% if request.user.is_authenticated %} Logged in as: {{
-    request.user.username }}
+    {% if request.user.is_authenticated %}
+     Logged in as: {{ request.user.username }}
     <a
       href="{% url 'logout' %}"
       class="ml-3 inline-flex items-center bg-gray-200 border-0 py-1 px-3 focus:outline-none hovr:bg-gray-300 rounded text-base mt-4 md:mt-0"
