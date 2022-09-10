@@ -33,10 +33,14 @@
 
 # Main Working 
 You can also download sample videos from /static folder
-<p align="center">
-<video src=".static/Leadsandagentcreation.mp4" type="video/mp4" height="90%" autoplay loop controls/>
-</p>
 
+## Login System
+
+https://user-images.githubusercontent.com/90143986/189487725-ade20c38-ddd1-447f-ab46-ba300c82ec9f.gif
+
+## Adding Leads
+
+https://user-images.githubusercontent.com/90143986/189487581-e4bc49a9-8427-4b9a-b367-3c42663e27a2.gif
 
 
 # Credits IN
