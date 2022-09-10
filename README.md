@@ -2,7 +2,7 @@
 
 # Customer Relationship Management
 
-[CRM](https://github.com/ikaushiksharma/crm-brigade) is a Customer Relationship Management Software made using django, tailwindcss, postgres, aos.js 
+[CRM](https://github.com/ikaushiksharma/crm-brigade) is a Customer Relationship Management Software made using django, tailwindcss, postgres, Animation On Scroll(AOS)
 
 </br>
 
