@@ -35,12 +35,15 @@
 You can also download sample videos from /static folder
 
 ## Login System
-
-https://user-images.githubusercontent.com/90143986/189487725-ade20c38-ddd1-447f-ab46-ba300c82ec9f.gif
+<p align="center">
+<img src="https://user-images.githubusercontent.com/90143986/189487725-ade20c38-ddd1-447f-ab46-ba300c82ec9f.gif"  height="90%"/>
+</p>
 
 ## Adding Leads
 
-https://user-images.githubusercontent.com/90143986/189487581-e4bc49a9-8427-4b9a-b367-3c42663e27a2.gif
+<p align="center">
+<img src="https://user-images.githubusercontent.com/90143986/189487581-e4bc49a9-8427-4b9a-b367-3c42663e27a2.gif"  height="90%"/>
+</p>
 
 
 # Credits IN
